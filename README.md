@@ -1,8 +1,9 @@
-![Project banner](static/project-banner.png)
+# ESPHome firmware for Intex pools [![CI](https://github.com/danielschenk/esphome-intex-pool-controller/actions/workflows/ci.yml/badge.svg)](https://github.com/danielschenk/esphome-intex-pool-controller/actions/workflows/ci.yml)
 
-[![CI](https://github.com/danielschenk/esphome-intex-pool-controller/actions/workflows/ci.yml/badge.svg)](https://github.com/danielschenk/esphome-intex-pool-controller/actions/workflows/ci.yml)
+> [!NOTE]
+> My time for this project is currently limited. See the [current status in this issue](https://github.com/danielschenk/esphome-intex-pool-controller/issues/46).
 
-# ESPHome firmware for Intex pool filtration systems
+<img src="static/project-banner.png" alt="Project banner" width=700>
 
 This repository contains firmware which allows remotely controlling certain types of Intex
 pool filtration pumps and saltwater chlorinators. The firmware is intended to be used on
